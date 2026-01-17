@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <a href="#-arabic-version">العربية 🇪🇬</a> •
+  <a href="#-english-version">English 🇺🇸</a>
+</p>
 
-## Getting Started
+---
 
-First, run the development server:
+## 🌍 Arabic Version
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 📘 رحلة تعلم Next.js
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+هذا المستودع مخصص لتعلّم **Next.js** من خلال متابعة كورس  
+**Next.js Tutorial - Beginner to Advanced** على قناة **Codevolution**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+كل **commit** في هذا المستودع يمثل جزءًا أو مفهومًا جديدًا تم تعلمه من الكورس،
+بهدف تتبع التقدم خطوة بخطوة.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 📚 بيانات الكورس
+- **القناة:** Codevolution  
+- **اسم الـ Playlist:** Next.js Tutorial - Beginner to Advanced  
+- **المنصة:** YouTube  
 
-## Learn More
+🔗 رابط الكورس:  
+https://www.youtube.com/playlist?list=PLZyvi_9gamL-EE3zQK6eJm5bS5C3F0EJg
 
-To learn more about Next.js, take a look at the following resources:
+### 🎯 الهدف
+- تعلم Next.js من البداية حتى المستوى المتقدم  
+- الالتزام بـ clean commits  
+- إنشاء مرجع يمكن الرجوع إليه لاحقًا  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌍 English Version
 
-## Deploy on Vercel
+### 📘 Next.js Learning Journey 🚀
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This repository is created as a **learning project** while following the  
+**"Next.js Tutorial - Beginner to Advanced"** playlist by **Codevolution**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Each commit represents a **specific lesson or concept** learned from the tutorial,
+allowing progress to be tracked step by step.
+
+---
+
+### 📚 Tutorial Details
+
+- **Channel:** Codevolution  
+- **Playlist Name:** Next.js Tutorial - Beginner to Advanced  
+- **Platform:** YouTube  
+- **Instructor:** Codevolution  
+
+🔗 **Playlist Link:**  
+https://www.youtube.com/playlist?list=PLZyvi_9gamL-EE3zQK6eJm5bS5C3F0EJg
+
+---
+
+### 🧩 Learning Approach
+
+- One commit per lesson or concept
+- Clear and descriptive commit messages
+- Gradual progression from basics to advanced topics
+
+Example commit messages:
+- `Initial Next.js setup`
+- `Pages and Routing`
+- `Dynamic Routes`
+- `Data Fetching`
+- `Layouts and Metadata`
+- `Server vs Client Components`
+
+---
+
+### 🛠️ Tech Stack
+
+- **Next.js**
+- **React**
+- **JavaScript / TypeScript**
+- **CSS / Tailwind CSS** (if applicable)
+
+---
+
+### 🎯 Repository Purpose
+
+- Learn Next.js from beginner to advanced level
+- Practice proper Git and GitHub workflow
+- Build a reusable learning reference
+
+---
+
+### 📌 Disclaimer
+
+This repository is created **for educational purposes only**  
+and follows the Codevolution tutorial playlist.
+
+---
+
+⭐ Feel free to explore the commits to follow the learning progression!
