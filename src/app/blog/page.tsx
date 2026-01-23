@@ -6,9 +6,10 @@ const metadata: Metadata = {
   }
 };
 export { metadata };
-export default function Blog() {
+export default async function Blog() {
+  await new Promise(r => setTimeout(r, 2000));
   return <>
     <Link href='\'>back to home</Link>
-    <h1>blog page</h1>;
+    <h1>blog page</h1>
   </>
 }
