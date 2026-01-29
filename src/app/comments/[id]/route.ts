@@ -1,7 +1,11 @@
+import { redirect } from "next/navigation";
 import { comments } from "../data";
 
 export async function GET(request:Request,{params}:{params:Promise<{id:string}>}){
     const {id} = await params;
+    if(parseInt(id) > comments.length){
+        redirect("/comments")
+    }
     const comment = comments.find(cmnt=>cmnt.id===parseInt(id))
     return Response.json(comment)
 }
